@@ -90,10 +90,10 @@ Therefore, I have used a piece of Sun board for this car
 
 ## :man: Project Created & Maintained By
 
-<img src = "Omni-Directional Bluetooth Controlled Car/Photo/profile.jpg"  height="130" alt=""> <br>Ashwini Kumar Behera
+<img src = "https://user-images.githubusercontent.com/84440770/223108048-7ef67493-e040-463e-b3e4-ac2c46ec649e.jpg"  height="130" alt=""> <br>Amitosh Mohapatra
 <p>
-<a href = "https://github.com/Kumar2390"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ashwini-kumar-behera-14a9a4215/">
+<a href = "https://github.com/amitosh2578"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/amitosh-mohapatra-477a97213/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
